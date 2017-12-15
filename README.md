@@ -14,6 +14,9 @@ Sentiment Analysis on tweets focusing on 3 sets of words:
  For example:
  India, List (iPhone, ios, apple), Map (NEGATIVE -> 1, NEUTRAL -> 2)
  
+ File SentimentAnalysis.scala has the main program
+ testing.scala is used to evalued to efficiency of 3 Sentiment libraries - AFINN, Opinion Lexicon, Stanford Corenlp
+ 
 Refernces:
     https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf
     https://acadgild.com/blog/twitter-sentiment-analysis-using-spark/
