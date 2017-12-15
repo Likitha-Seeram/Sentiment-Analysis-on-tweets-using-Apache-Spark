@@ -17,6 +17,8 @@ Sentiment Analysis on tweets focusing on 3 sets of words:
  File SentimentAnalysis.scala has the main program
  testing.scala is used to evalued to efficiency of 3 Sentiment libraries - AFINN, Opinion Lexicon, Stanford Corenlp
  
+ This project requires stanford corenlp, stanford corenlp models, spark, spark-sql dependencies.
+ 
 Refernces:
     https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf
     https://acadgild.com/blog/twitter-sentiment-analysis-using-spark/
